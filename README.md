@@ -21,7 +21,7 @@
 # Инструкция по установке
 Чтобы скачать репозиторий:
 
-`git clone https://github.com/andrejsharov/Project1.git`
+`https://github.com/Andreysharov18/homework_10_1`
 
 Затем вам необходимо установить основные зависимости для запуска проекта в вашей системе:
 
