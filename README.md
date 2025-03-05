@@ -1,4 +1,4 @@
-# `Banking operations widget`
+git # `Banking operations widget`
 
 Программа создана для фильтрации и сортировки банковских счетов по дате и оплате.
 
